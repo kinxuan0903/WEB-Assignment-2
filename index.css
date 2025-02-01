@@ -7,8 +7,6 @@
     background-repeat: no-repeat;
     padding: 20px 0;
     height: 100vh;
-    display: flex;
-    flex-direction: column;
 }
 
 .nav-item
