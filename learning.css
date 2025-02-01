@@ -1,7 +1,7 @@
 /* Navigation Bar */
 .topbackground
 {
-    background-image: url(img/topbg.jpg);
+    background-image: url(topbg.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
